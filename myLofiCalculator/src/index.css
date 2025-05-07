@@ -1,0 +1,19 @@
+body{
+  background-image: url("/src/assets/images/LofiIMG.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.calculatorContainer {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+}
+
+.musicContainer {
+
+}
+
+.weatherContainer {
+  
+}
