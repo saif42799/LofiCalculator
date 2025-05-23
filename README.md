@@ -8,7 +8,8 @@ Lofi Calculator 🎧🧮 <br>
 A cozy little web app where you can crunch numbers, jot down notes, and chill with some lofi beats. Whether you're studying, working, or just vibing, this space helps you stay focused and relaxed—all in one place.
 
 Images <br>
-![screenshot](images/Screenshot.png) <br>
+![Lofi Calculator screenshot](/src/assets/images/Screenshot.png)
+ <br>
 
 *   ✉️  You can contact me at [saif42799@outlook.com](mailto:saif42799@outlook.com)
 *   🧠  I'm learning Whatever I can get my hands on! And mainly JavaScript
