@@ -28,6 +28,9 @@ Live Link: <br>
 Images <br>
 ![Lofi Calculator screenshot](/myLofiCalculator/src/assets/images/Screenshot.png)
  <br>
+ 
+![Lofi Calculator screenshot](/myLofiCalculator/src/assets/images/Screenshot2.jpg)
+ <br>
 
 *   ✉️  You can contact me at [saif42799@outlook.com](mailto:saif42799@outlook.com)
 *   🧠  I'm learning Whatever I can get my hands on! And mainly JavaScript
