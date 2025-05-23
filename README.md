@@ -6,6 +6,24 @@ Software Engineer
 
 Lofi Calculator 🎧🧮 <br>
 A cozy little web app where you can crunch numbers, jot down notes, and chill with some lofi beats. Whether you're studying, working, or just vibing, this space helps you stay focused and relaxed—all in one place.
+<br>
+## Technologies used
+R - React <br>
+N - NodeJs <br>
+
+## Frontend Technologies
+HTML <br>
+CSS <br>
+JavaScript <br>
+
+## Backend Technologies
+NodeJs - runtime <br>
+
+## How to run program 
+cd into folder (cd myLofiCalculator)<br>
+Next npm run dev <br>
+
+Live Link: <br>
 
 Images <br>
 ![Lofi Calculator screenshot](/myLofiCalculator/src/assets/images/Screenshot.png)
