@@ -4,8 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Calculator Project <br>
-🚧 In progress!!! 🚧
+Lofi Calculator 🎧🧮 <br>
+A cozy little web app where you can crunch numbers, jot down notes, and chill with some lofi beats. Whether you're studying, working, or just vibing, this space helps you stay focused and relaxed—all in one place.
+
+Images <br>
+<img src="/src/assets/images/Screenshot 2025-05-23 at 12.40.22 PM.png"></img>
 
 *   ✉️  You can contact me at [saif42799@outlook.com](mailto:saif42799@outlook.com)
 *   🧠  I'm learning Whatever I can get my hands on! And mainly JavaScript
