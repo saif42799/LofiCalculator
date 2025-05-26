@@ -23,7 +23,7 @@ NodeJs - runtime <br>
 cd into folder (cd myLofiCalculator)<br>
 Next npm run dev <br>
 
-Live Link: <br>
+Live Link: https://ef7a2f32.loficalculator.pages.dev/ <br>
 
 Images <br>
 ![Lofi Calculator screenshot](/myLofiCalculator/src/assets/images/Screenshot.png)
