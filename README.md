@@ -28,7 +28,7 @@ Live Link: <br>
 Images <br>
 ![Lofi Calculator screenshot](/myLofiCalculator/src/assets/images/Screenshot.png)
  <br>
- 
+
 ![Lofi Calculator screenshot](/myLofiCalculator/src/assets/images/Screenshot2.jpg)
  <br>
 

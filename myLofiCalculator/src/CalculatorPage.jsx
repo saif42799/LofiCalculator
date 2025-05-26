@@ -1,25 +1,25 @@
-
+import React, { useRef, useEffect } from 'react';
 
 function CalculatorPage() {
 
-    const display = document.getElementById("display");
+    const displayRef = useRef(null);
 
     function appendToDisplay(input) {
-        display.value += input;
+        displayRef.current.value += input;
     }
-
+    
     function clearDisplay() {
-        display.value = "";
+        displayRef.current.value = "";
     }
-
+    
     function calculate() {
         try {
-            display.value = eval(display.value);
-        }
-        catch (error) {
-            display.value = "Error";
+            displayRef.current.value = eval(displayRef.current.value);
+        } catch (error) {
+            displayRef.current.value = "Error";
         }
     }
+    
 
     // notes 
     function popup() {
@@ -158,7 +158,7 @@ function CalculatorPage() {
 
                 <div id="calculator">
                     
-                    <input id="display" readOnly></input>
+                    <input id="display" ref={displayRef} readOnly></input>
                     <div id="keys">
                         <button onClick={() => appendToDisplay('+')} className="operator-btn">+</button>
                         <button onClick={() => appendToDisplay('7')}>7</button>
